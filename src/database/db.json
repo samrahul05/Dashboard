@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "DeviceId": "1",
+        "PrescribedMedicine": "one",
+        "id": 1
+      },
+      {
+        "DeviceId": "5",
+        "PrescribedMedicine": "Two",
+        "id": 9
+      }
+    ]
+  }
